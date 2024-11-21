@@ -4,76 +4,81 @@ This is a professional-grade MERN (MongoDB, Express, React, Node.js) stack web a
 
 ## Project View
 
-<h4>1. For User Profile<h4/>
+<h4>1. Login Page<h4/>
+<p align="center">
+  <img alt="img-name" src="Images/login page.png" width="700">
+</p>
+
+<h4>2. For User Profile<h4/>
 
 - **Homepage**
 <p align="center">
-  <img alt="img-name" src="Images/Homepage from User.png" width="700">
+  <img alt="img-name" src="Images/homepage for users.png" width="700">
 </p>
   
 - **Appointment Lists**
 <p align="center">
-  <img alt="img-name" src="Images/Appointment Lists from User Profile.png" width="700">
+  <img alt="img-name" src="Images/appointment for users.png" width="700">
 </p>
   
 - **Booking Appointment**
 <p align="center">
-  <img alt="img-name" src="Images/Booking Appointment as User.png" width="700">
+  <img alt="img-name" src="Images/book appointment.png" width="700">
 </p>
   
 - **Apply As Doctor**
 <p align="center">
-  <img alt="img-name" src="Images/User can apply for doctor.png" width="700">
+  <img alt="img-name" src="Images/apply for doctor.png" width="700">
 </p>
 
 - **New Notifications**
 <p align="center">
-  <img alt="img-name" src="Images/Notification Page for New Notifications.png" width="700">
+  <img alt="img-name" src="Images/notification.png" width="700">
 </p>
 
 - **Read Notifications**
 <p align="center">
-  <img alt="img-name" src="Images/After Read Notification Page.png" width="700">
+  <img alt="img-name" src="Images/read notification.png" width="700">
 </p>
 
-<h4>2. For Doctor Profile<h4/>
+<h4>3. For Doctor Profile<h4/>
   
 - **Homepage**
 <p align="center">
-  <img alt="img-name" src="Images/Doctor Homepage.png" width="700">
+  <img alt="img-name" src="Images/homepage for doctors.png" width="700">
 </p>
   
 - **Appointment Lists**
 <p align="center">
-  <img alt="img-name" src="Images/Appointment Lists from Doctor Profile.png" width="700">
+  <img alt="img-name" src="Images/appointments for doctors.png" width="700">
 </p>
 
 - **Manage Profile**
 <p align="center">
-  <img alt="img-name" src="Images/Manage Doctor Profile.png" width="700">
+  <img alt="img-name" src="Images/manage profile for doctors.png" width="700">
 </p>
   
-<h4>3. For Admin Profile<h4/>
+<h4>4. For Admin Profile<h4/>
   
 - **Homepage**
 <p align="center">
-  <img alt="img-name" src="Images/Homepage for Admin.png" width="700">
+  <img alt="img-name" src="Images/homepage from admin.png" width="700">
 </p>
 
 - **Doctors List**
 <p align="center">
-  <img alt="img-name" src="Images/Doctor List from admin page.png" width="700">
+  <img alt="img-name" src="Images/doctors from admin.png" width="700">
 </p>
   
 - **Users List**
 <p align="center">
-  <img alt="img-name" src="Images/Users List from Admin.png" width="700">
+  <img alt="img-name" src="Images/users from admin.png" width="700">
 </p>
   
 ## Installation
 
-To set up BloodLife locally, follow these steps:
-
+To set up application locally, follow these steps:
+      
 - Install the required dependencies for backend:
 
       npm install express joi jsonwebtoken moment mongoose morgan nodemon zxcvbn dotenv colors bcryptjs
